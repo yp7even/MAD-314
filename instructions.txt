@@ -1,0 +1,28 @@
+Congratulations, you have succesfully cloned the exercise repository! You are awesome!
+
+To complete the exercise, please follow the instructions.
+
+1. Open the report file. You will use it to track your progress.
+
+2. Enter the names of your team members in section 1 of the report.  Once done, add your file to the staging area ('git add'), and then do a git status.
+
+Note your observations.
+
+3. Commit your changes use 'git commit'. Write a useful commit message. Once dont, do a 'git push' to add your commit to the remote repository on GitHub. Do you get an error? If yes, what does it mean? How can you fix it?
+
+Note your observations.
+
+4. Go to GitHub.com and create a repository, or find the one we created in the first class. Note the URL of your repo, and imput it section 2 of the report.
+
+5. Use the 'git remote set-url origin *you url*' to link this exercise to your repo, then do a git push? Go on your repo page on GitHub. What do you see?
+
+Note your observations.
+
+6. On GitHub, find the commits section. Who made the first commit? What was the name of the commit, when was it made? Who made the latest commit? What was the anem name of the commit, when was it made? 
+
+Write your answers in section 3.
+
+7. In the same folder. Create a new text file. Note its name in section 4.
+
+Go a git status, and write your obvservations.
+Add your new file to the staging area. How will you do it?
